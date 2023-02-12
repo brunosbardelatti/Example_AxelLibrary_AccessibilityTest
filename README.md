@@ -33,6 +33,6 @@ Após executar os testes os resultados vão estar na pasta reports do projeto.
 
 ## Documentação Axe Library
 
-Git hub : https://github.com/adiralashiva8/robotframework-axelibrary
+[Git hub da Library:](https://github.com/adiralashiva8/robotframework-axelibrary){:target="_blank"}
 
-Key words : https://robotframework-axelibrary.netlify.app/
+[Key words :](https://github.com/adiralashiva8/robotframework-axelibrary){:target="_blank"}
