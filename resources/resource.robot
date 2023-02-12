@@ -1,7 +1,4 @@
 *** Settings ***
-Library           OperatingSystem
-Library           String
-Library           Collections
 Library           SeleniumLibrary
 
 *** Variables ***
